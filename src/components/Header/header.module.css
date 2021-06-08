@@ -1,0 +1,15 @@
+.header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 60px;
+    background-color: transparent;
+    backdrop-filter: blur(5px);
+    z-index: 2;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+}
